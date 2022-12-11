@@ -9,5 +9,8 @@
         <module name="3_SpingIoC" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpingIoC" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
